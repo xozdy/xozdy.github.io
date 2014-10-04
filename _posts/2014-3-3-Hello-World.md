@@ -14,14 +14,20 @@ Your program is to use the brute-force approach in order to find the Answer to L
 
 ## Input:
 1
+
 2
+
 88
+
 42
+
 99
 
 ### Output:
 1
+
 2
+
 88
 
 ## Solution
