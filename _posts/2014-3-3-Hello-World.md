@@ -14,7 +14,7 @@ Your program is to use the brute-force approach in order to find the Answer to L
 
 It is dangerous to use C.
 
-```python
+{% highlight javascript %}
 a=[];
 while True:
     x=int(raw_input(""));
@@ -24,6 +24,6 @@ while True:
         break;
 for x in a:
     print x;
-```
+{% endhighlight %}
 
 And that concludes my glorius markdown test!
